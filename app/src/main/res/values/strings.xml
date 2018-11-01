@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyDBsql</string>
+    <string name="editTextcountry">country</string>
+    <string name="editTextcapital">city</string>
+    <string name="buttoninsert">Insert Recode</string>
+
+</resources>
