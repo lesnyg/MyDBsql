@@ -3,5 +3,9 @@
     <string name="editTextcountry">country</string>
     <string name="editTextcapital">city</string>
     <string name="buttoninsert">Insert Recode</string>
+    <string name="textViewResult" />
+    <string name="buttonread">Read Data</string>
+    <string name="buttonupdata">Updata Record</string>
+    <string name="buttondele">Delete Record</string>
 
 </resources>
